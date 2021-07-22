@@ -1,0 +1,20 @@
+/*
+Theme Name: Custom Theme Ecf p8
+Theme URI: https://github.com/RPruvost/Wordpress_ecf.git
+Author: RPruvost
+Author URI: https://github.com/RPruvost
+Description: A custom the made from scratch for ecf purposes
+Tags: beta
+Version: 1.0.0
+Requires: 5.0
+Tested up to: 5.6
+Requires PHP: 7.3.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: custom-theme
+*/
+
+footer {
+    background: white;
+    margin-top: 25%;
+}

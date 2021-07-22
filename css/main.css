@@ -1,0 +1,27 @@
+body {
+    background: #423E37; 
+    color: #EDEBD7;
+}
+
+.categories li, .tags li {
+    list-style: none;
+    display: inline-block;
+    color: #EDEBD7;
+
+}
+
+article {
+    margin-bottom: 1rem;
+    color: #EDEBD7;
+}
+
+a {
+    text-decoration: none;
+    color: #EDEBD7;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    color: #EDEBD7;
+}
